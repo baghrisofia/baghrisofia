@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baghrisofia
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning electrical engineering
+- 👀 I’m interested in mechatronics 
+- 🌱 I’m currently learning systems engineering 
 
 <!---
 baghrisofia/baghrisofia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
